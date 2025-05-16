@@ -5,5 +5,3 @@ basic.forever(function () {
         . . # . .
         # # . # .
         # # . . #
-        `)
-
